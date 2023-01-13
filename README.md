@@ -8,3 +8,4 @@ src satellites
       B-->D;
       C-->D;
 ```
+math test $ y = \frac {1}{3} x^3$
